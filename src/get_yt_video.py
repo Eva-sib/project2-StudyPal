@@ -10,6 +10,8 @@ def get_yt_video_link(query):
 
 
 # Example usage - uncomment to test
-# user_query = "Explain Adaptive Radiation"
-# video_titles, video_links = get_yt_video_link(user_query)
-# print(video_titles, video_links)
+#print("SCRIPT EMPIEZA")
+#user_query = "Explain Adaptive Radiation"
+#video_titles, video_links = get_yt_video_link(user_query)
+#print(video_titles, video_links)
+#print("SCRIPT TERMINA")
